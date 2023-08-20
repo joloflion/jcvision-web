@@ -1,0 +1,10 @@
+.product-card{
+  cursor: pointer;
+  height: 240px;
+  img{
+    height: 180px !important;
+  }
+  &:hover{
+    background-color: #e8e6e6;
+  }
+}
